@@ -1,0 +1,1 @@
+INSERT INTO `sym_fields` (`label`, `element_name`, `parent_section`, `location`, `required`, `type`, `show_column`, `sortorder`) VALUES ('bbb', 'bbb', '2', 'main', 'no', 'input', 'yes', '0');
